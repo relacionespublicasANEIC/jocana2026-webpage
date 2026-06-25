@@ -39,7 +39,7 @@
 <section>
         <iframe
                 class="w-full h-96"
-                src="https://forms.gle/X64XS5o3pHe9XoMq5"
+                src="https://docs.google.com/forms/d/e/1FAIpQLSe2LUnU3ThhqDwY2wBuy48rLQkDEYq_-GKUQqg8tsgbceuCpA/viewform"
                 title="Formulario de registro"
         ></iframe>
 </section>
